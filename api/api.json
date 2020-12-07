@@ -1,0 +1,19 @@
+{
+  "oranges": [
+    {
+      "id": "o1",
+      "from": "Wakayama",
+      "ranking": 1
+    },
+    {
+      "id": "o2",
+      "from": "Shizuoka",
+      "ranking": 3
+    },
+    {
+      "id": "o3",
+      "from": "Ehime",
+      "ranking": 2
+    }
+  ]
+}

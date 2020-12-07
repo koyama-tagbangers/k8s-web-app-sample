@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "json-server -w api.json -p 8080 -H 0.0.0.0"
+  },
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
